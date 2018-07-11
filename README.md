@@ -1,2 +1,2 @@
 # Plazza
-Teck2 EPITECH
+C++ AutoRelease Pool Factory
